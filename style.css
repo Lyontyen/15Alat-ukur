@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+
+.nav-bar {
+    display: flex;
+    border-bottom: 1px solid;
+    
+}
+
+.nav-bar p{
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+    margin: 25px;
+
+}
+
+.nav-bar span{
+    color: green;
+
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    margin: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-bar h6{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: auto;
+    padding-right: 25px;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.judul{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 1000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text1{
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px;
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 25pxs;
+
+}
+
+.judul-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin: 20px;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+  
+}
+
+.penutup {
+    text-align: center;
+    color: white;
+    background-color: black;
+
+    margin-top: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
